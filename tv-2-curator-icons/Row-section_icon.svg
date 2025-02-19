@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Row-section_x5F_paths" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 24 24">
+  <!-- Generator: Adobe Illustrator 29.2.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 116)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #fafafa;
+      }
+    </style>
+  </defs>
+  <rect class="st0" x="2" y="5" width="14" height="2"/>
+  <rect class="st0" x="2" y="10" width="20" height="4" rx="1" ry="1"/>
+  <path class="st0" d="M3,16h4c.6,0,1,.4,1,1h0c0,.6-.4,1-1,1H3c-.6,0-1-.4-1-1h0c0-.6.4-1,1-1Z"/>
+  <path class="st0" d="M17,16h4c.6,0,1,.4,1,1h0c0,.6-.4,1-1,1h-4c-.6,0-1-.4-1-1h0c0-.6.4-1,1-1Z"/>
+  <path class="st0" d="M10,16h4c.6,0,1,.4,1,1h0c0,.6-.4,1-1,1h-4c-.6,0-1-.4-1-1h0c0-.6.4-1,1-1Z"/>
+</svg>

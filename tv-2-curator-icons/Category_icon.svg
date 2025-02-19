@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Category_x5F_paths" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 24 24">
+  <!-- Generator: Adobe Illustrator 29.2.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 116)  -->
+  <defs>
+    <style>
+      .st0, .st1 {
+        fill: #fafafa;
+      }
+
+      .st1 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path class="st1" d="M6,10v8h12v-8H6ZM5,8c-.6,0-1,.4-1,1v10c0,.6.4,1,1,1h14c.6,0,1-.4,1-1v-10c0-.6-.4-1-1-1H5Z"/>
+  <path class="st0" d="M19,7H5c0-.3,0-.5.3-.7.2-.2.5-.3.8-.3h11.7c.3,0,.6,0,.8.3.2.2.3.4.3.7h.1Z"/>
+  <path class="st0" d="M17,5H7c0-.3,0-.5.3-.7.2-.2.5-.3.8-.3h7.7c.3,0,.6,0,.8.3.2.2.3.4.3.7h.1Z"/>
+  <path class="st0" d="M11,12v4l3-2-3-2Z"/>
+</svg>

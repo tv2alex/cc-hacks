@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Content-wrapper_x5F_paths" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 24 24">
+  <!-- Generator: Adobe Illustrator 29.2.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 116)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #fafafa;
+      }
+    </style>
+  </defs>
+  <path class="st0" d="M17,9v6H7v-6h10M19,7H5v10h14V7h0Z"/>
+  <path class="st0" d="M11,10v4l3-2-3-2Z"/>
+  <path class="st0" d="M20,6v12H4V6h16M20,5H4c-.6,0-1,.4-1,1v12c0,.6.4,1,1,1h16c.6,0,1-.4,1-1V6c0-.6-.4-1-1-1h0Z"/>
+</svg>
